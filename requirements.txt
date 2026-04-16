@@ -2,6 +2,6 @@ streamlit
 numpy
 opencv-python-headless
 joblib
-tensorflow-cpu
+tensorflow-cpu==2.15.0
 Pillow
-scikit-learn
+scikit-learn==1.3.2
